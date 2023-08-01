@@ -1,5 +1,5 @@
 # Lid-Driven_Cavity_Flow
-A fluid dynamics project done for the MSc Physics course, "Computational Physics", at the University of Groningen. 
+A fluid dynamics project done for the MSc Physics course, "Computational Physics", at the University of Groningen. Final project awarded a 9.5/10.
 
 ## Project description
 The aim of this project was to apply the finite differences method to a well-known problem in fluid
